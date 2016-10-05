@@ -1,0 +1,5 @@
+obj/
+bin/
+.vscode/
+project.json
+project.lock.json
